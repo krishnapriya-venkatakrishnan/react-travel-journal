@@ -1,4 +1,4 @@
-## Travel journal- static page
+## Travel journal
 
 ### Overview
 This page displays a list of places visited. Multiple components are created to display specific data.
